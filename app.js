@@ -26,3 +26,9 @@ let secretMessage = [
 ];
 
 secretMessage.pop();
+
+secretMessage.push("to", "Program");
+
+secretMessage[7] = "right";
+
+secretMessage.shift();
